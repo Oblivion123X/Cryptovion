@@ -12,8 +12,9 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Click on Bug Report
-2. Follow Bug reporting guidelines as given 
+1. Go to .github/ISSUE TEMPLATES
+2. Click on bug report.md
+3. Follow Bug reporting guidelines as given 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
